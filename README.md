@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Dan.
+
+I'm currently working on a privacy startup called Vendee.
+
+My current side projects: 
+- danielflood.com
+
 <!--
 **danielflood/danielflood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
