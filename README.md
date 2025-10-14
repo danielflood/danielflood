@@ -1,6 +1,10 @@
-### Hi there 👋
+### What's the craic? 👋
 
-My name is Dan.
+My name is Dan. I'm a computer and electronic engineer from Ireland 🇮🇪 
+
+I've worked in semiconductor design, startups and quant trading 👨🏻‍🏭
+
+Now I'm exploring FPGAs and Embedded Systems 🕹️
 
 <!--
 **danielflood/danielflood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
